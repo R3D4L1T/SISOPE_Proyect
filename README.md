@@ -27,7 +27,10 @@ En muchos entornos educativos, se enfrenta desorganización por parte de la admi
 3. Ejecuta la aplicación.
 4. :)
 
-## Contribuciones
+## Anexos
+![image](https://github.com/Alexjz7/ProyectoColegio/assets/129889597/6e0f6dbb-b9ec-4416-bae3-87d92c6e7c92)
+![image](https://github.com/Alexjz7/ProyectoColegio/assets/129889597/e80a9027-14de-4f19-885c-27b3fae6049c)
+![image](https://github.com/Alexjz7/ProyectoColegio/assets/129889597/a5b9d8cc-77cc-426f-a7e8-fcc42bf67e71)
 
-¡Contribuciones son bienvenidas! Si encuentras algún problema o tienes sugerencias para mejorar el proyecto, por favor crea un [issue](https://github.com/tu-usuario/tu-repositorio/issues) o realiza un pull request.
+
 
