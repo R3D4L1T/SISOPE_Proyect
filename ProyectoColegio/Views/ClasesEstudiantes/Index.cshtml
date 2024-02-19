@@ -1,0 +1,277 @@
+﻿@model IEnumerable<ProyectoColegio.Domain.ClasesEstudiantes>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+@if (User.IsInRole("Administrador") || User.IsInRole("Docente"))
+{
+    <h1>LISTA DE SECCIONES</h1>
+}
+@if (User.IsInRole("Estudiante"))
+{
+    <h1>SECCION</h1>
+}
+
+
+@* <div class="row">
+    <div class="col-md-6">
+        <form method="get">
+            <div class="form-group">
+                <label for="searchName">Buscar por ID del curso:</label>
+                <input type="text" class="form-control" id="searchName" name="searchName">
+            </div>
+            <button type="submit" class="btn btn-primary">Buscar</button>
+        </form>
+    </div>
+</div> *@
+<!-- Agrega esto donde quieras que aparezca el botón de actualización -->
+@if (User.IsInRole("Administrador") || User.IsInRole("Docente"))
+{
+    <div class="row">
+        <div class="row">
+            <div class="col-4">
+                <label for="OrdenCategoria" class="form-label">Filtrar por estado de Categoria:</label>
+                <select class="form-select" id="OrdenCategoria">
+                    <option value="Primaria">Primaria</option>
+                    <option value="Secundaria">Secundaria</option>
+                </select>
+            </div>
+            <div class="col-4">
+                <label for="OrdenGrado" class="form-label">Seleccionar Grado:</label>
+                <select class="form-select" id="OrdenGrado">
+                    <!-- Las opciones se llenarán dinámicamente con JavaScript -->
+                </select>
+            </div>
+        </div>
+    </div>
+    <br />
+    <th>
+        <a asp-action="ActualizarEstudiantes" class="btn btn-primary">Actualizar Estudiantes</a>
+    </th>
+    <br />
+}
+
+
+<table class="table">
+    <thead>
+        <tr>
+            @if (User.IsInRole("Administrador") || User.IsInRole("Docente"))
+            {
+                <th>
+                    <a asp-action="Index" asp-route-campoOrden="T1" asp-route-ordenActual="@ViewData["OrdenActual"]">
+                        @Html.DisplayNameFor(model => model.First().C1)
+                    </a>
+                </th>
+                <th>
+                    <a asp-action="Index" asp-route-campoOrden="T2" asp-route-ordenActual="@ViewData["OrdenActual"]">
+                        @Html.DisplayNameFor(model => model.First().C2)
+                    </a>
+                </th>
+                <th>
+                    <a asp-action="Index" asp-route-campoOrden="T3" asp-route-ordenActual="@ViewData["OrdenActual"]">
+                        @Html.DisplayNameFor(model => model.First().C3)
+                    </a>
+                </th>
+                <th>
+                    <a asp-action="Index" asp-route-campoOrden="T4" asp-route-ordenActual="@ViewData["OrdenActual"]">
+                        @Html.DisplayNameFor(model => model.First().C4)
+                    </a>
+                </th>
+                <th>
+                    <a asp-action="Index" asp-route-campoOrden="FINAL" asp-route-ordenActual="@ViewData["OrdenActual"]">
+                        @Html.DisplayNameFor(model => model.First().Final)
+                    </a>
+                </th>
+                <th>
+                    Materia
+                </th>
+                <th>
+                    Estudiantes
+                </th>
+                <th>
+                    Grado
+                </th>
+                <th>
+                    Categoria
+                </th>
+                <th></th>
+            }
+            @if (User.IsInRole("Estudiante"))
+            {
+                <th>
+                    Estudiantes
+                </th>
+                <th>
+                    Grado
+                </th>
+                <th>
+                    Categoria
+                </th>
+                <th></th>
+            }
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                @if (User.IsInRole("Administrador") || User.IsInRole("Docente"))
+                {
+                    <td>
+                        @Html.DisplayFor(modelItem => item.C1)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.C2)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.C3)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.C4)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Final)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Clases.curso.nombre)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Usuario.Apellidos), @Html.DisplayFor(modelItem => item.Usuario.Nombres)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Usuario.Grado)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Usuario.TipoGrado)
+                    </td>
+                    <td>
+                    <a asp-action="Edit" asp-route-id="@item.ClasesEstudiantesID">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.ClasesEstudiantesID">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.ClasesEstudiantesID">Delete</a>
+
+                    </td>
+                }
+                @if (User.IsInRole("Estudiante"))
+                {
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Usuario.Apellidos), @Html.DisplayFor(modelItem => item.Usuario.Nombres)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Usuario.Grado)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Usuario.TipoGrado)
+                    </td>
+                    <td>
+                    <a asp-action="Details" asp-route-id="@item.ClasesEstudiantesID">Details</a>
+                    </td>
+                }
+                
+            </tr>
+        }
+    </tbody>
+</table>
+
+@section Scripts {
+
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            var OrdenCategoria = document.getElementById('OrdenCategoria');
+            var OrdenGrado = document.getElementById('OrdenGrado');
+
+            // Establecer los valores predeterminados
+            OrdenCategoria.value = 'Primaria';
+            OrdenGrado.value = '1';
+
+            // Actualizar las opciones del combo box de grados según la categoría predeterminada
+            actualizarOpcionesGrado('Primaria');
+
+            // Filtrar la tabla según la categoría y grado predeterminados
+            filtrarTablaPorCategoriaYGrado('Primaria', '1');
+
+            OrdenCategoria.addEventListener('change', function () {
+                var selectedCategoria = this.value;
+                var selectedGrado = OrdenGrado.value;
+
+                // Actualiza las opciones del combo box de grados según la categoría seleccionada
+                actualizarOpcionesGrado(selectedCategoria);
+
+                // Filtra la tabla según la categoría y grado seleccionados
+                filtrarTablaPorCategoriaYGrado(selectedCategoria, selectedGrado);
+            });
+
+            OrdenGrado.addEventListener('change', function () {
+                var selectedGrado = this.value;
+                var selectedCategoria = OrdenCategoria.value;
+
+                // Filtra la tabla según la categoría y grado seleccionados
+                filtrarTablaPorCategoriaYGrado(selectedCategoria, selectedGrado);
+            });
+
+            // Función para filtrar la tabla por categoría y grado
+            function filtrarTablaPorCategoriaYGrado(categoria, grado) {
+                // Obtén todas las filas de la tabla
+                var filas = document.querySelectorAll('tbody tr');
+
+                // Itera sobre las filas y muestra/oculta según la categoría y grado seleccionados
+                filas.forEach(function (fila) {
+                    var categoriaFila = fila.querySelector('td:nth-child(9)').innerText.trim(); // Ajusta esto según tu estructura de tabla
+                    var gradoFila = fila.querySelector('td:nth-child(8)').innerText.trim(); // Ajusta esto según tu estructura de tabla
+
+                    var mostrarFila = (categoria === '' || categoriaFila === categoria) &&
+                        (grado === '' || gradoFila === grado);
+
+                    // Muestra la fila si coincide con la categoría y grado seleccionados
+                    fila.style.display = mostrarFila ? '' : 'none';
+                });
+            }
+
+            // Función para actualizar las opciones del combo box de grados según la categoría seleccionada
+            function actualizarOpcionesGrado(categoria) {
+                var OrdenGrado = document.getElementById('OrdenGrado');
+
+                // Limpia las opciones actuales
+                OrdenGrado.innerHTML = '';
+
+                // Agrega las nuevas opciones según la categoría seleccionada
+                if (categoria === 'Primaria') {
+                    for (var i = 1; i <= 6; i++) {
+                        var opcion = document.createElement('option');
+                        opcion.value = i;
+                        opcion.text = i;
+                        OrdenGrado.appendChild(opcion);
+                    }
+                } else if (categoria === 'Secundaria') {
+                    for (var i = 1; i <= 5; i++) {
+                        var opcion = document.createElement('option');
+                        opcion.value = i;
+                        opcion.text = i;
+                        OrdenGrado.appendChild(opcion);
+                    }
+                }
+            }
+
+            // Agrega esto donde quieras que aparezca el botón de actualización
+            var resetFiltroButton = document.createElement('button');
+            resetFiltroButton.textContent = 'Limpiar Filtro';
+            resetFiltroButton.className = 'btn btn-secondary';
+            resetFiltroButton.addEventListener('click', function () {
+                // Limpia los valores de los combo boxes y muestra todas las filas
+                OrdenCategoria.value = '';
+                OrdenGrado.value = '';
+                filtrarTablaPorCategoriaYGrado('', '');
+            });
+
+            var estadoReservaContainer = document.querySelector('.col-4');
+            estadoReservaContainer.appendChild(resetFiltroButton);
+        });
+    </script>
+
+}
+
+
+

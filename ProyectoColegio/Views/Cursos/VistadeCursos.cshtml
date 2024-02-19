@@ -1,0 +1,14 @@
+﻿@model IEnumerable<ProyectoColegio.Domain.Cursos>
+
+
+@foreach (var item in Model) 
+{
+    <div class="card" style="width: 18rem;">
+    <img src="/Imagenes/CURSO-DE-REDES-UVM-FACIALIX.jpg" class="card-img-top" alt="...">
+    <div class="card-body">
+        <h5 class="card-title">@item.nombre</h5>
+        <p class="card-text">@item.descripcion</p>
+        <a href="#" class="btn btn-primary">Go somewhere</a>
+    </div>
+    </div>
+}

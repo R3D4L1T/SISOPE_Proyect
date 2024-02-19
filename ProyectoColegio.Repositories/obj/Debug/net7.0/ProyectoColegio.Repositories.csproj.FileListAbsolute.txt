@@ -1,0 +1,44 @@
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio.Repositories\bin\Debug\net7.0\ProyectoColegio.Repositories.deps.json
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio.Repositories\bin\Debug\net7.0\ProyectoColegio.Repositories.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio.Repositories\bin\Debug\net7.0\ProyectoColegio.Repositories.pdb
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio.Repositories\obj\Debug\net7.0\ProyectoColegio.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio.Repositories\obj\Debug\net7.0\ProyectoColegio.Repositories.AssemblyInfoInputs.cache
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio.Repositories\obj\Debug\net7.0\ProyectoColegio.Repositories.AssemblyInfo.cs
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio.Repositories\obj\Debug\net7.0\ProyectoColegio.Repositories.csproj.CoreCompileInputs.cache
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio.Repositories\obj\Debug\net7.0\ProyectoColegio.Repositories.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio.Repositories\obj\Debug\net7.0\refint\ProyectoColegio.Repositories.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio.Repositories\obj\Debug\net7.0\ProyectoColegio.Repositories.pdb
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio.Repositories\obj\Debug\net7.0\ref\ProyectoColegio.Repositories.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio.Repositories\bin\Debug\net7.0\ProyectoColegio.Repositories.deps.json
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio.Repositories\bin\Debug\net7.0\ProyectoColegio.Repositories.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio.Repositories\bin\Debug\net7.0\ProyectoColegio.Repositories.pdb
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio.Repositories\obj\Debug\net7.0\ProyectoColegio.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio.Repositories\obj\Debug\net7.0\ProyectoColegio.Repositories.AssemblyInfoInputs.cache
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio.Repositories\obj\Debug\net7.0\ProyectoColegio.Repositories.AssemblyInfo.cs
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio.Repositories\obj\Debug\net7.0\ProyectoColegio.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio.Repositories\obj\Debug\net7.0\ProyectoColegio.Repositories.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio.Repositories\obj\Debug\net7.0\refint\ProyectoColegio.Repositories.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio.Repositories\obj\Debug\net7.0\ProyectoColegio.Repositories.pdb
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio.Repositories\obj\Debug\net7.0\ref\ProyectoColegio.Repositories.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio.Repositories\bin\Debug\net7.0\ProyectoColegio.Repositories.deps.json
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio.Repositories\bin\Debug\net7.0\ProyectoColegio.Repositories.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio.Repositories\bin\Debug\net7.0\ProyectoColegio.Repositories.pdb
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio.Repositories\obj\Debug\net7.0\ProyectoColegio.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio.Repositories\obj\Debug\net7.0\ProyectoColegio.Repositories.AssemblyInfoInputs.cache
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio.Repositories\obj\Debug\net7.0\ProyectoColegio.Repositories.AssemblyInfo.cs
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio.Repositories\obj\Debug\net7.0\ProyectoColegio.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio.Repositories\obj\Debug\net7.0\ProyectoColegio.Repositories.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio.Repositories\obj\Debug\net7.0\refint\ProyectoColegio.Repositories.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio.Repositories\obj\Debug\net7.0\ProyectoColegio.Repositories.pdb
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio.Repositories\obj\Debug\net7.0\ref\ProyectoColegio.Repositories.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio.Repositories\bin\Debug\net7.0\ProyectoColegio.Repositories.deps.json
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio.Repositories\bin\Debug\net7.0\ProyectoColegio.Repositories.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio.Repositories\bin\Debug\net7.0\ProyectoColegio.Repositories.pdb
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio.Repositories\obj\Debug\net7.0\ProyectoColegio.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio.Repositories\obj\Debug\net7.0\ProyectoColegio.Repositories.AssemblyInfoInputs.cache
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio.Repositories\obj\Debug\net7.0\ProyectoColegio.Repositories.AssemblyInfo.cs
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio.Repositories\obj\Debug\net7.0\ProyectoColegio.Repositories.csproj.CoreCompileInputs.cache
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio.Repositories\obj\Debug\net7.0\ProyectoColegio.Repositories.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio.Repositories\obj\Debug\net7.0\refint\ProyectoColegio.Repositories.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio.Repositories\obj\Debug\net7.0\ProyectoColegio.Repositories.pdb
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio.Repositories\obj\Debug\net7.0\ref\ProyectoColegio.Repositories.dll

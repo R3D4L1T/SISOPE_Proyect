@@ -1,0 +1,1313 @@
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\appsettings.Development.json
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\appsettings.json
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ProyectoColegio.staticwebassets.runtime.json
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ProyectoColegio.exe
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ProyectoColegio.deps.json
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ProyectoColegio.runtimeconfig.json
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ProyectoColegio.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ProyectoColegio.pdb
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Azure.Core.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Azure.Identity.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Humanizer.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\System.CodeDom.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\System.Memory.Data.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\ProyectoColegio.csproj.AssemblyReference.cache
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\ProyectoColegio.GeneratedMSBuildEditorConfig.editorconfig
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\ProyectoColegio.AssemblyInfoInputs.cache
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\ProyectoColegio.AssemblyInfo.cs
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\ProyectoColegio.csproj.CoreCompileInputs.cache
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\ProyectoColegio.MvcApplicationPartsAssemblyInfo.cache
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\ProyectoColegio.RazorAssemblyInfo.cache
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\ProyectoColegio.RazorAssemblyInfo.cs
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\staticwebassets\msbuild.ProyectoColegio.Microsoft.AspNetCore.StaticWebAssets.props
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\staticwebassets\msbuild.build.ProyectoColegio.props
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ProyectoColegio.props
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ProyectoColegio.props
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\staticwebassets.pack.json
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\staticwebassets.build.json
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\staticwebassets.development.json
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\scopedcss\bundle\ProyectoColegio.styles.css
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\scopedcss\projectbundle\ProyectoColegio.bundle.scp.css
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\ProyectoColegio.csproj.CopyComplete
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\ProyectoColegio.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\refint\ProyectoColegio.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\ProyectoColegio.pdb
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\ProyectoColegio.genruntimeconfig.cache
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\ref\ProyectoColegio.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.Build.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\NuGet.Common.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\System.Composition.Convention.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\System.Composition.Hosting.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\System.Composition.Runtime.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\System.Composition.TypedParts.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\af\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ar\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\az\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\bg\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\cs\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\da\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\de\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\el\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\es\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\fa\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\fr\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\he\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\hr\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\hu\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\hy\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\id\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\is\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\it\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ja\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ku\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\lv\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\mt\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\nb\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\nl\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pl\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pt\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ro\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ru\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\sk\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\sl\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\sr\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\sv\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\tr\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\uk\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\vi\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\T2-CARLOS\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\appsettings.Development.json
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\appsettings.json
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ProyectoColegio.staticwebassets.runtime.json
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ProyectoColegio.exe
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ProyectoColegio.deps.json
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ProyectoColegio.runtimeconfig.json
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ProyectoColegio.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ProyectoColegio.pdb
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Azure.Core.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Azure.Identity.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Humanizer.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.Build.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\NuGet.Common.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\System.CodeDom.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\System.Composition.Convention.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\System.Composition.Hosting.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\System.Composition.Runtime.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\System.Composition.TypedParts.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\af\Humanizer.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ar\Humanizer.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\az\Humanizer.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\bg\Humanizer.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\cs\Humanizer.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\da\Humanizer.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\de\Humanizer.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\el\Humanizer.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\es\Humanizer.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\fa\Humanizer.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\fr\Humanizer.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\he\Humanizer.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\hr\Humanizer.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\hu\Humanizer.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\hy\Humanizer.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\id\Humanizer.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\is\Humanizer.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\it\Humanizer.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ja\Humanizer.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ku\Humanizer.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\lv\Humanizer.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\mt\Humanizer.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\nb\Humanizer.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\nl\Humanizer.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pl\Humanizer.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pt\Humanizer.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ro\Humanizer.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ru\Humanizer.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\sk\Humanizer.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\sl\Humanizer.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\sr\Humanizer.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\sv\Humanizer.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\tr\Humanizer.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\uk\Humanizer.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\vi\Humanizer.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\ProyectoColegio.csproj.AssemblyReference.cache
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\ProyectoColegio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\ProyectoColegio.AssemblyInfoInputs.cache
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\ProyectoColegio.AssemblyInfo.cs
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\ProyectoColegio.csproj.CoreCompileInputs.cache
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\ProyectoColegio.MvcApplicationPartsAssemblyInfo.cache
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\ProyectoColegio.RazorAssemblyInfo.cache
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\ProyectoColegio.RazorAssemblyInfo.cs
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\staticwebassets\msbuild.ProyectoColegio.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\staticwebassets\msbuild.build.ProyectoColegio.props
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ProyectoColegio.props
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ProyectoColegio.props
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\staticwebassets.build.json
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\staticwebassets.development.json
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\scopedcss\bundle\ProyectoColegio.styles.css
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\scopedcss\projectbundle\ProyectoColegio.bundle.scp.css
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\ProyectoColegio.csproj.CopyComplete
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\ProyectoColegio.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\refint\ProyectoColegio.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\ProyectoColegio.pdb
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\ProyectoColegio.genruntimeconfig.cache
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\ref\ProyectoColegio.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ProyectoColegio.Domain.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ProyectoColegio.Domain.pdb
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ProyectoColegio.Persistence.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ProyectoColegio.Persistence.pdb
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.Extensions.Hosting.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\appsettings.json
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ProyectoColegio.staticwebassets.runtime.json
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ProyectoColegio.exe
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ProyectoColegio.deps.json
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ProyectoColegio.runtimeconfig.json
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ProyectoColegio.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ProyectoColegio.pdb
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Humanizer.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.Extensions.Hosting.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\NuGet.Common.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\af\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ar\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\az\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\bg\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\cs\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\da\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\de\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\el\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\es\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\fa\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\fr\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\he\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\hr\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\hu\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\hy\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\id\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\is\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\it\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ja\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ku\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\lv\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\mt\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\nb\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\nl\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pl\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pt\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ro\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ru\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\sk\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\sl\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\sr\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\sv\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\tr\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\uk\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\vi\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ProyectoColegio.Domain.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ProyectoColegio.Persistence.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ProyectoColegio.Domain.pdb
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ProyectoColegio.Persistence.pdb
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\ProyectoColegio.csproj.AssemblyReference.cache
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\ProyectoColegio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\ProyectoColegio.AssemblyInfoInputs.cache
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\ProyectoColegio.AssemblyInfo.cs
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\ProyectoColegio.csproj.CoreCompileInputs.cache
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\ProyectoColegio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\ProyectoColegio.RazorAssemblyInfo.cache
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\ProyectoColegio.RazorAssemblyInfo.cs
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\staticwebassets\msbuild.ProyectoColegio.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\staticwebassets\msbuild.build.ProyectoColegio.props
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ProyectoColegio.props
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ProyectoColegio.props
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\scopedcss\bundle\ProyectoColegio.styles.css
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\scopedcss\projectbundle\ProyectoColegio.bundle.scp.css
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\ProyectoColegio.csproj.CopyComplete
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\ProyectoColegio.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\refint\ProyectoColegio.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\ProyectoColegio.pdb
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\ProyectoColegio.genruntimeconfig.cache
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\ref\ProyectoColegio.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\appsettings.json
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ProyectoColegio.staticwebassets.runtime.json
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ProyectoColegio.exe
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ProyectoColegio.deps.json
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ProyectoColegio.runtimeconfig.json
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ProyectoColegio.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ProyectoColegio.pdb
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Humanizer.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.Extensions.Hosting.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\NuGet.Common.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\af\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ar\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\az\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\bg\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\cs\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\da\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\de\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\el\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\es\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\fa\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\fr\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\he\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\hr\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\hu\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\hy\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\id\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\is\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\it\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ja\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ku\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\lv\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\mt\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\nb\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\nl\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pl\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pt\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ro\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ru\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\sk\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\sl\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\sr\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\sv\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\tr\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\uk\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\vi\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ProyectoColegio.Domain.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ProyectoColegio.Persistence.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ProyectoColegio.Domain.pdb
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ProyectoColegio.Persistence.pdb
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\ProyectoColegio.csproj.AssemblyReference.cache
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\ProyectoColegio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\ProyectoColegio.AssemblyInfoInputs.cache
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\ProyectoColegio.AssemblyInfo.cs
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\ProyectoColegio.csproj.CoreCompileInputs.cache
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\ProyectoColegio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\ProyectoColegio.RazorAssemblyInfo.cache
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\ProyectoColegio.RazorAssemblyInfo.cs
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\staticwebassets\msbuild.ProyectoColegio.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\staticwebassets\msbuild.build.ProyectoColegio.props
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ProyectoColegio.props
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ProyectoColegio.props
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\scopedcss\bundle\ProyectoColegio.styles.css
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\scopedcss\projectbundle\ProyectoColegio.bundle.scp.css
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\ProyectoColegio.csproj.CopyComplete
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\ProyectoColegio.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\refint\ProyectoColegio.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\ProyectoColegio.pdb
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\ProyectoColegio.genruntimeconfig.cache
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\ref\ProyectoColegio.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\appsettings.Development.json
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\appsettings.json
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ProyectoColegio.staticwebassets.runtime.json
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ProyectoColegio.exe
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ProyectoColegio.deps.json
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ProyectoColegio.runtimeconfig.json
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ProyectoColegio.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ProyectoColegio.pdb
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Azure.Core.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Azure.Identity.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Humanizer.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.Build.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.Extensions.Hosting.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\NuGet.Common.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\System.CodeDom.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\System.Composition.Convention.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\System.Composition.Hosting.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\System.Composition.Runtime.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\System.Composition.TypedParts.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\System.Memory.Data.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\af\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ar\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\az\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\bg\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\cs\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\da\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\de\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\el\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\es\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\fa\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\fr\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\he\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\hr\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\hu\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\hy\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\id\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\is\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\it\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ja\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ku\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\lv\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\mt\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\nb\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\nl\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pl\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pt\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ro\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ru\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\sk\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\sl\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\sr\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\sv\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\tr\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\uk\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\vi\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ProyectoColegio.Domain.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ProyectoColegio.Persistence.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ProyectoColegio.Domain.pdb
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\bin\Debug\net7.0\ProyectoColegio.Persistence.pdb
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\ProyectoColegio.csproj.AssemblyReference.cache
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\ProyectoColegio.GeneratedMSBuildEditorConfig.editorconfig
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\ProyectoColegio.AssemblyInfoInputs.cache
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\ProyectoColegio.AssemblyInfo.cs
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\ProyectoColegio.csproj.CoreCompileInputs.cache
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\ProyectoColegio.MvcApplicationPartsAssemblyInfo.cache
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\ProyectoColegio.RazorAssemblyInfo.cache
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\ProyectoColegio.RazorAssemblyInfo.cs
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\staticwebassets.build.json
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\staticwebassets.development.json
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\staticwebassets\msbuild.ProyectoColegio.Microsoft.AspNetCore.StaticWebAssets.props
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\staticwebassets\msbuild.build.ProyectoColegio.props
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ProyectoColegio.props
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ProyectoColegio.props
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\staticwebassets.pack.json
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\scopedcss\bundle\ProyectoColegio.styles.css
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\scopedcss\projectbundle\ProyectoColegio.bundle.scp.css
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\ProyectoColegio.csproj.CopyComplete
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\ProyectoColegio.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\refint\ProyectoColegio.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\ProyectoColegio.pdb
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\ProyectoColegio.genruntimeconfig.cache
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\ref\ProyectoColegio.dll

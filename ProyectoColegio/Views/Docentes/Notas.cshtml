@@ -1,0 +1,90 @@
+﻿@model IEnumerable<ProyectoColegio.Domain.ClasesEstudiantes>
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Notas</title>
+
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+        }
+
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+        th, td {
+            border: 1px solid #ddd;
+            padding: 10px;
+            text-align: center;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+
+        td p {
+            margin: 0;
+            line-height: 1.2;
+            font-size: 14px;
+        }
+
+        input {
+            width: 50px; /* Ajusta el ancho según tus necesidades */
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Registro de Notas</h1>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Clase</th>
+                <th>Estudiante</th>
+                <th>C1</th>
+                <th>C2</th>
+                <th>C3</th>
+                <th>C4</th>
+                <th>Final</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var nota in Model)
+            {
+                <tr>
+                    <td>@nota.Clases.curso.nombre</td>
+                    <td>@nota.Usuario.Nombres @nota.Usuario.Apellidos</td>
+                    <td>
+                        <input asp-for="@nota.C1" />
+                    </td>
+                    <td>
+                        <input asp-for="@nota.C2" />
+                    </td>
+                    <td>
+                        <input asp-for="@nota.C3" />
+                    </td>
+                    <td>
+                        <input asp-for="@nota.C4" />
+                    </td>
+                    <td>
+                        <input asp-for="@nota.Final" />
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+</body>
+</html>

@@ -1,0 +1,82 @@
+﻿@model IEnumerable<ProyectoColegio.Domain.Clases>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>CLASES</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+<form asp-controller="Clases" asp-action="Index" method="get">
+    <div class="form-inline">
+        <div class="form-group">
+            <label for="searchName" class="control-label"></label>
+            <input type="text" class="form-control" name="searchName" value="" />
+        </div>
+        <button type="submit" class="btn btn-primary">Buscar</button>
+    </div>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.FirstOrDefault().curso.nombre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FirstOrDefault().docente.Apellidos)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FirstOrDefault().DiaClase)
+            </th>
+            <th>
+                Horario
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FirstOrDefault().Grado)
+            </th>
+            <th>
+                Tipo
+            </th>
+
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.curso.nombre)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.docente.Apellidos) ,@Html.DisplayFor(modelItem => item.docente.Nombres)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DiaClase)
+                </td>
+                <td>
+                    @item.HoraInicio.ToString("hh\\:mm") - @item.HoraFin.ToString("hh\\:mm")
+
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Grado)°
+                    
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TipoGrado)
+                </td>
+
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.ClaseID">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.ClaseID">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.ClaseID">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

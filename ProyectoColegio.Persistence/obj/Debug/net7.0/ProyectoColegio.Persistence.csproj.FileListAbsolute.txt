@@ -1,0 +1,60 @@
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio.Persistence\obj\Debug\net7.0\ProyectoColegio.Persistence.csproj.AssemblyReference.cache
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio.Persistence\obj\Debug\net7.0\ProyectoColegio.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio.Persistence\obj\Debug\net7.0\ProyectoColegio.Persistence.AssemblyInfoInputs.cache
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio.Persistence\obj\Debug\net7.0\ProyectoColegio.Persistence.AssemblyInfo.cs
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio.Persistence\obj\Debug\net7.0\ProyectoColegio.Persistence.csproj.CoreCompileInputs.cache
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio.Persistence\bin\Debug\net7.0\ProyectoColegio.Persistence.deps.json
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio.Persistence\bin\Debug\net7.0\ProyectoColegio.Persistence.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio.Persistence\bin\Debug\net7.0\ProyectoColegio.Persistence.pdb
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio.Persistence\bin\Debug\net7.0\ProyectoColegio.Domain.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio.Persistence\bin\Debug\net7.0\ProyectoColegio.Domain.pdb
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio.Persistence\obj\Debug\net7.0\ProyectoColegio.Persistence.csproj.CopyComplete
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio.Persistence\obj\Debug\net7.0\ProyectoColegio.Persistence.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio.Persistence\obj\Debug\net7.0\refint\ProyectoColegio.Persistence.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio.Persistence\obj\Debug\net7.0\ProyectoColegio.Persistence.pdb
+D:\Diseño y Arquitectura de Software\ProyectoColegio\ProyectoColegio.Persistence\obj\Debug\net7.0\ref\ProyectoColegio.Persistence.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio.Persistence\bin\Debug\net7.0\ProyectoColegio.Persistence.deps.json
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio.Persistence\bin\Debug\net7.0\ProyectoColegio.Persistence.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio.Persistence\bin\Debug\net7.0\ProyectoColegio.Persistence.pdb
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio.Persistence\bin\Debug\net7.0\ProyectoColegio.Domain.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio.Persistence\bin\Debug\net7.0\ProyectoColegio.Domain.pdb
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio.Persistence\obj\Debug\net7.0\ProyectoColegio.Persistence.csproj.AssemblyReference.cache
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio.Persistence\obj\Debug\net7.0\ProyectoColegio.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio.Persistence\obj\Debug\net7.0\ProyectoColegio.Persistence.AssemblyInfoInputs.cache
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio.Persistence\obj\Debug\net7.0\ProyectoColegio.Persistence.AssemblyInfo.cs
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio.Persistence\obj\Debug\net7.0\ProyectoColegio.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio.Persistence\obj\Debug\net7.0\ProyectoColegio.Persistence.csproj.CopyComplete
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio.Persistence\obj\Debug\net7.0\ProyectoColegio.Persistence.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio.Persistence\obj\Debug\net7.0\refint\ProyectoColegio.Persistence.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio.Persistence\obj\Debug\net7.0\ProyectoColegio.Persistence.pdb
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\ProyectoColegio.Persistence\obj\Debug\net7.0\ref\ProyectoColegio.Persistence.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio.Persistence\bin\Debug\net7.0\ProyectoColegio.Persistence.deps.json
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio.Persistence\bin\Debug\net7.0\ProyectoColegio.Persistence.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio.Persistence\bin\Debug\net7.0\ProyectoColegio.Persistence.pdb
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio.Persistence\bin\Debug\net7.0\ProyectoColegio.Domain.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio.Persistence\bin\Debug\net7.0\ProyectoColegio.Domain.pdb
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio.Persistence\obj\Debug\net7.0\ProyectoColegio.Persistence.csproj.AssemblyReference.cache
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio.Persistence\obj\Debug\net7.0\ProyectoColegio.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio.Persistence\obj\Debug\net7.0\ProyectoColegio.Persistence.AssemblyInfoInputs.cache
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio.Persistence\obj\Debug\net7.0\ProyectoColegio.Persistence.AssemblyInfo.cs
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio.Persistence\obj\Debug\net7.0\ProyectoColegio.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio.Persistence\obj\Debug\net7.0\ProyectoColegio.Persistence.csproj.CopyComplete
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio.Persistence\obj\Debug\net7.0\ProyectoColegio.Persistence.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio.Persistence\obj\Debug\net7.0\refint\ProyectoColegio.Persistence.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio.Persistence\obj\Debug\net7.0\ProyectoColegio.Persistence.pdb
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio.Persistence\obj\Debug\net7.0\ref\ProyectoColegio.Persistence.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio.Persistence\bin\Debug\net7.0\ProyectoColegio.Persistence.deps.json
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio.Persistence\bin\Debug\net7.0\ProyectoColegio.Persistence.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio.Persistence\bin\Debug\net7.0\ProyectoColegio.Persistence.pdb
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio.Persistence\bin\Debug\net7.0\ProyectoColegio.Domain.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio.Persistence\bin\Debug\net7.0\ProyectoColegio.Domain.pdb
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio.Persistence\obj\Debug\net7.0\ProyectoColegio.Persistence.csproj.AssemblyReference.cache
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio.Persistence\obj\Debug\net7.0\ProyectoColegio.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio.Persistence\obj\Debug\net7.0\ProyectoColegio.Persistence.AssemblyInfoInputs.cache
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio.Persistence\obj\Debug\net7.0\ProyectoColegio.Persistence.AssemblyInfo.cs
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio.Persistence\obj\Debug\net7.0\ProyectoColegio.Persistence.csproj.CoreCompileInputs.cache
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio.Persistence\obj\Debug\net7.0\ProyectoColegio.Persistence.csproj.CopyComplete
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio.Persistence\obj\Debug\net7.0\ProyectoColegio.Persistence.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio.Persistence\obj\Debug\net7.0\refint\ProyectoColegio.Persistence.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio.Persistence\obj\Debug\net7.0\ProyectoColegio.Persistence.pdb
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio.Persistence\obj\Debug\net7.0\ref\ProyectoColegio.Persistence.dll

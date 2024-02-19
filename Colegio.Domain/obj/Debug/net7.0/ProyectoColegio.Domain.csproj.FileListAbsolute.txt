@@ -1,0 +1,48 @@
+D:\Diseño y Arquitectura de Software\ProyectoColegio\Colegio.Domain\bin\Debug\net7.0\ProyectoColegio.Domain.deps.json
+D:\Diseño y Arquitectura de Software\ProyectoColegio\Colegio.Domain\bin\Debug\net7.0\ProyectoColegio.Domain.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\Colegio.Domain\bin\Debug\net7.0\ProyectoColegio.Domain.pdb
+D:\Diseño y Arquitectura de Software\ProyectoColegio\Colegio.Domain\obj\Debug\net7.0\ProyectoColegio.Domain.csproj.AssemblyReference.cache
+D:\Diseño y Arquitectura de Software\ProyectoColegio\Colegio.Domain\obj\Debug\net7.0\ProyectoColegio.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Diseño y Arquitectura de Software\ProyectoColegio\Colegio.Domain\obj\Debug\net7.0\ProyectoColegio.Domain.AssemblyInfoInputs.cache
+D:\Diseño y Arquitectura de Software\ProyectoColegio\Colegio.Domain\obj\Debug\net7.0\ProyectoColegio.Domain.AssemblyInfo.cs
+D:\Diseño y Arquitectura de Software\ProyectoColegio\Colegio.Domain\obj\Debug\net7.0\ProyectoColegio.Domain.csproj.CoreCompileInputs.cache
+D:\Diseño y Arquitectura de Software\ProyectoColegio\Colegio.Domain\obj\Debug\net7.0\ProyectoColegio.Domain.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\Colegio.Domain\obj\Debug\net7.0\refint\ProyectoColegio.Domain.dll
+D:\Diseño y Arquitectura de Software\ProyectoColegio\Colegio.Domain\obj\Debug\net7.0\ProyectoColegio.Domain.pdb
+D:\Diseño y Arquitectura de Software\ProyectoColegio\Colegio.Domain\obj\Debug\net7.0\ref\ProyectoColegio.Domain.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\Colegio.Domain\bin\Debug\net7.0\ProyectoColegio.Domain.deps.json
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\Colegio.Domain\bin\Debug\net7.0\ProyectoColegio.Domain.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\Colegio.Domain\bin\Debug\net7.0\ProyectoColegio.Domain.pdb
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\Colegio.Domain\obj\Debug\net7.0\ProyectoColegio.Domain.csproj.AssemblyReference.cache
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\Colegio.Domain\obj\Debug\net7.0\ProyectoColegio.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\Colegio.Domain\obj\Debug\net7.0\ProyectoColegio.Domain.AssemblyInfoInputs.cache
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\Colegio.Domain\obj\Debug\net7.0\ProyectoColegio.Domain.AssemblyInfo.cs
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\Colegio.Domain\obj\Debug\net7.0\ProyectoColegio.Domain.csproj.CoreCompileInputs.cache
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\Colegio.Domain\obj\Debug\net7.0\ProyectoColegio.Domain.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\Colegio.Domain\obj\Debug\net7.0\refint\ProyectoColegio.Domain.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\Colegio.Domain\obj\Debug\net7.0\ProyectoColegio.Domain.pdb
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\ProyectoColegio\Colegio.Domain\obj\Debug\net7.0\ref\ProyectoColegio.Domain.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\Colegio.Domain\bin\Debug\net7.0\ProyectoColegio.Domain.deps.json
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\Colegio.Domain\bin\Debug\net7.0\ProyectoColegio.Domain.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\Colegio.Domain\bin\Debug\net7.0\ProyectoColegio.Domain.pdb
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\Colegio.Domain\obj\Debug\net7.0\ProyectoColegio.Domain.csproj.AssemblyReference.cache
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\Colegio.Domain\obj\Debug\net7.0\ProyectoColegio.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\Colegio.Domain\obj\Debug\net7.0\ProyectoColegio.Domain.AssemblyInfoInputs.cache
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\Colegio.Domain\obj\Debug\net7.0\ProyectoColegio.Domain.AssemblyInfo.cs
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\Colegio.Domain\obj\Debug\net7.0\ProyectoColegio.Domain.csproj.CoreCompileInputs.cache
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\Colegio.Domain\obj\Debug\net7.0\ProyectoColegio.Domain.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\Colegio.Domain\obj\Debug\net7.0\refint\ProyectoColegio.Domain.dll
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\Colegio.Domain\obj\Debug\net7.0\ProyectoColegio.Domain.pdb
+C:\Users\rene_\OneDrive\Escritorio\NUEVA VERSION\PROY - V2.0\ProyectoColegio\Colegio.Domain\obj\Debug\net7.0\ref\ProyectoColegio.Domain.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\Colegio.Domain\bin\Debug\net7.0\ProyectoColegio.Domain.deps.json
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\Colegio.Domain\bin\Debug\net7.0\ProyectoColegio.Domain.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\Colegio.Domain\bin\Debug\net7.0\ProyectoColegio.Domain.pdb
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\Colegio.Domain\obj\Debug\net7.0\ProyectoColegio.Domain.csproj.AssemblyReference.cache
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\Colegio.Domain\obj\Debug\net7.0\ProyectoColegio.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\Colegio.Domain\obj\Debug\net7.0\ProyectoColegio.Domain.AssemblyInfoInputs.cache
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\Colegio.Domain\obj\Debug\net7.0\ProyectoColegio.Domain.AssemblyInfo.cs
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\Colegio.Domain\obj\Debug\net7.0\ProyectoColegio.Domain.csproj.CoreCompileInputs.cache
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\Colegio.Domain\obj\Debug\net7.0\ProyectoColegio.Domain.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\Colegio.Domain\obj\Debug\net7.0\refint\ProyectoColegio.Domain.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\Colegio.Domain\obj\Debug\net7.0\ProyectoColegio.Domain.pdb
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\Colegio.Domain\obj\Debug\net7.0\ref\ProyectoColegio.Domain.dll

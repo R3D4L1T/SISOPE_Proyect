@@ -1,0 +1,100 @@
+﻿@model ProyectoColegio.Domain.Clases
+
+@{
+    ViewData["Title"] = "Create";
+    ViewBag.DocenteID = new SelectList(ViewBag.Docentes, "DocenteID", "Apellidos");
+    ViewBag.CursoID = new SelectList(ViewBag.Cursos, "CursoID", "nombre");
+}
+
+<h1>Create</h1>
+
+<h4>Clases</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="DocenteID" class="control-label"></label>
+                <select asp-for="DocenteID" class="form-control" asp-items="@(ViewData["Docentes"] as SelectList)"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="CursoID" class="control-label"></label>
+                <select asp-for="CursoID" class="form-control" asp-items="@(ViewData["Cursos"] as SelectList)"></select>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="DiaClase" class="control-label"></label>
+                <select asp-for="DiaClase" class="form-control">
+                    <option value="Lunes">Lunes</option>
+                    <option value="Martes">Martes</option>
+                    <option value="Miércoles">Miércoles</option>
+                    <option value="Jueves">Jueves</option>
+                    <option value="Viernes">Viernes</option>
+                </select>
+                <span asp-validation-for="DiaClase" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="HoraInicio" class="control-label"></label>
+                <input asp-for="HoraInicio" type="time" class="form-control" />
+                <span asp-validation-for="HoraInicio" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="HoraFin" class="control-label"></label>
+                <input asp-for="HoraFin" type="time" class="form-control" />
+                <span asp-validation-for="HoraFin" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TipoGrado" class="control-label"></label>
+                <select asp-for="TipoGrado" class="form-control" id="TipoGrado">
+                    <option value="Primaria">Primaria</option>
+                    <option value="Secundaria">Secundaria</option>
+                </select>
+                <span asp-validation-for="TipoGrado" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Grado" class="control-label"></label>
+                <select asp-for="Grado" class="form-control" id="Grado">
+                    <!-- Las opciones de Grado se llenarán dinámicamente mediante JavaScript -->
+                </select>
+                <span asp-validation-for="Grado" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            // Definir las opciones de Grado para Primaria y Secundaria
+            var gradosPrimaria = [1, 2, 3, 4, 5, 6];
+            var gradosSecundaria = [1, 2, 3, 4, 5];
+
+            // Función para llenar las opciones de Grado en función del TipoGrado seleccionado
+            function llenarGrados() {
+                var tipoGrado = $("#TipoGrado").val();
+                var grados = tipoGrado === "Primaria" ? gradosPrimaria : gradosSecundaria;
+
+                // Limpiar y llenar las opciones de Grado
+                $("#Grado").empty();
+                $.each(grados, function (i, grado) {
+                    $("#Grado").append($('<option></option>').val(grado).html(grado));
+                });
+            }
+
+            // Llenar las opciones de Grado al cargar la página
+            llenarGrados();
+
+            // Llenar las opciones de Grado cuando cambie el TipoGrado
+            $("#TipoGrado").change(llenarGrados);
+        });
+    </script>
+}

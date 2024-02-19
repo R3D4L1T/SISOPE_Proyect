@@ -1,0 +1,46 @@
+﻿@model IEnumerable<ProyectoColegio.Domain.Usuario>
+
+@{
+    ViewData["Title"] = "Index";
+}
+<h1>TU SECCION</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Estudiantes
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Correo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Grado)
+            </th>
+            <th>
+                Categoria
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nombres) @Html.DisplayFor(modelItem => item.Apellidos)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Correo)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Grado)°
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TipoGrado)
+                </td>
+                <td>
+            </tr>
+        }
+    </tbody>
+</table>

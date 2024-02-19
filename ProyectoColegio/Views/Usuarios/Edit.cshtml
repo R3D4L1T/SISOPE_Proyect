@@ -1,0 +1,99 @@
+﻿@model ProyectoColegio.Domain.Usuario
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Usuario</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="UsuarioID" />
+            <div class="form-group">
+                <label asp-for="Dni" class="control-label">Dni:</label>
+                <input asp-for="Dni" class="form-control" readonly />
+                <span asp-validation-for="Dni" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Nombres" class="control-label">Nombres:</label>
+                <input asp-for="Nombres" class="form-control" readonly />
+                <span asp-validation-for="Nombres" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Apellidos" class="control-label">Apellidos:</label>
+                <input asp-for="Apellidos" class="form-control" readonly />
+                <span asp-validation-for="Apellidos" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Correo" class="control-label">Correo:</label>
+                <input asp-for="Correo" class="form-control" />
+                <span asp-validation-for="Correo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input asp-for="Password" class="form-control" readonly style="display:none" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="TipoGrado" class="control-label">Tipo de Grado:</label>
+                <select asp-for="TipoGrado" class="form-control" id="TipoGrado">
+                    <option value="Primaria">Primaria</option>
+                    <option value="Secundaria">Secundaria</option>
+                </select>
+                <span asp-validation-for="TipoGrado" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Grado" class="control-label">Grado:</label>
+                <select asp-for="Grado" class="form-control" id="Grado">
+                    <!-- Las opciones de Grado se llenarán dinámicamente mediante JavaScript -->
+                </select>
+                <span asp-validation-for="Grado" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Guardar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            // Definir las opciones de Grado para Primaria y Secundaria
+            var gradosPrimaria = [1, 2, 3, 4, 5, 6];
+            var gradosSecundaria = [1, 2, 3, 4, 5];
+
+            // Función para llenar las opciones de Grado en función del TipoGrado seleccionado
+            function llenarGrados() {
+                var tipoGrado = $("#TipoGrado").val();
+                var grados = tipoGrado === "Primaria" ? gradosPrimaria : gradosSecundaria;
+
+                // Limpiar y llenar las opciones de Grado
+                $("#Grado").empty();
+                $.each(grados, function (i, grado) {
+                    $("#Grado").append($('<option></option>').val(grado).html(grado));
+                });
+
+                // Obtener el valor actual de Grado del modelo
+                var gradoActual = @Json.Serialize(Model.Grado);
+
+                // Seleccionar automáticamente el grado actual
+                $("#Grado").val(gradoActual);
+            }
+
+            // Llenar las opciones de Grado al cargar la página
+            llenarGrados();
+
+            // Llenar las opciones de Grado cuando cambie el TipoGrado
+            $("#TipoGrado").change(llenarGrados);
+        });
+    </script>
+}

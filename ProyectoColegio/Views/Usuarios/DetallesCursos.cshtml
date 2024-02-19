@@ -1,0 +1,36 @@
+﻿@model List<DetalleCursoViewModel>
+
+<h1>TUS CURSOS</h1>
+
+@if (Model != null && Model.Count > 0)
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Nombre del Curso</th>
+                <th>C1</th>
+                <th>C2</th>
+                <th>C3</th>
+                <th>C4</th>
+                <th>Final</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var detalleCurso in Model)
+            {
+                <tr>
+                    <td>@detalleCurso.NombreCurso</td>
+                    <td>@detalleCurso.C1</td>
+                    <td>@detalleCurso.C2</td>
+                    <td>@detalleCurso.C3</td>
+                    <td>@detalleCurso.C4</td>
+                    <td>@((detalleCurso.C1 + detalleCurso.C2 + detalleCurso.C3 + detalleCurso.C4) / 4)</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No se encontraron cursos para este usuario.</p>
+}

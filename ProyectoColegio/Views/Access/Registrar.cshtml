@@ -1,0 +1,83 @@
+﻿@model Usuario
+@{
+	Layout = null;
+}
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="UTF-8">
+	<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/css/bootstrap.min.css'>
+	<link rel='stylesheet' href='https://unicons.iconscout.com/release/v2.1.9/css/unicons.css'>
+	<link rel="stylesheet" href="~/css/style.css">
+</head>
+<body>
+	<div class="section">
+		<div class="container">
+			<div class="row full-height justify-content-center">
+				<div class="col-12 text-center align-self-center py-5">
+					<div class="section pb-5 pt-5 pt-sm-2 text-center">
+						<h6 class="mb-0 pb-3"><span>Login </span><span>Registro</span></h6>
+						<input class="checkbox" type="checkbox" id="reg-log" name="reg-log" />
+						<label for="reg-log"></label>
+						<div class="card-3d-wrap mx-auto">
+							<div class="card-3d-wrapper">
+								<div class="card-back">
+									<div class="center-wrap">
+										<div class="section text-center">
+											<form method="post" asp-controller="Access" asp-action="Registrar" class="Reginput">
+												<h4 class="mb-4 pb-3">Registrate</h4>
+												<div class="form-group">
+													<input asp-for="Nombres" type="text" name="logname" class="form-style" placeholder="Nombres" id="logname" autocomplete="off">
+													<i class="input-icon uil uil-user"></i>
+													<span asp-validation-for="Nombres" class="advert"></span>
+												</div>
+												<div class="form-group">
+													<input input asp-for="Apellidos" type="text" name="logname" class="form-style" placeholder="Apellidos" id="logname" autocomplete="off">
+													<span asp-validation-for="Apellidos" class="advert"></span>
+												</div>
+												<div class="form-group">
+													<input asp-for="Dni" type="text" name="logname" class="form-style" placeholder="DNI" id="logname" autocomplete="off">
+													<span asp-validation-for="Nombres" class="advert"></span>
+												</div>
+												<div class="form-group mt-2">
+													<input asp-for="Correo" type="email" name="logemail" class="form-style" placeholder="example@colegio.pe" id="logemail" autocomplete="off">
+													<i class="input-icon uil uil-at"></i>
+													<span asp-validation-for="Correo" class="advert"></span>
+												</div>
+												<div class="form-group mt-2">
+													<input asp-for="Password" type="password" name="logpass" class="form-style" placeholder="Password" id="logpass" autocomplete="off">
+													<i class="input-icon uil uil-lock-alt"></i>
+													<span asp-validation-for="Password" class="advert"></span>
+												</div>
+
+												<!-- Nuevo campo oculto para enviar la acción -->
+												<input type="hidden" name="accion" value="registro" />
+
+												@if (ViewData["Mensaje"] != null)
+												{
+													<div class="alert alert-danger" role="alert">
+														@ViewData["Mensaje"]
+													</div>
+												}
+												<input type="submit" class="btn mt-4" value="Registrar" />
+												@if (ViewData["RegistroExitoso"] != null)
+												{
+													<div class="alert alert-success" role="alert">
+														@ViewData["RegistroExitoso"]
+													</div>
+												}
+											</form>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<script src="~/js/script.js"></script>
+</body>
+</html>

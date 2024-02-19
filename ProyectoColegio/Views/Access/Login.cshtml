@@ -1,0 +1,63 @@
+﻿@model Usuario
+@{
+	Layout = null;
+}
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="UTF-8">
+	<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/css/bootstrap.min.css'>
+	<link rel='stylesheet' href='https://unicons.iconscout.com/release/v2.1.9/css/unicons.css'>
+	<link rel="stylesheet" href="~/css/style.css">
+
+</head>
+<body>
+	<div class="section">
+		<div class="container">
+			<div class="row full-height justify-content-center">
+				<div class="col-12 text-center align-self-center py-5">
+					<div class="section pb-5 pt-5 pt-sm-2 text-center">
+						<input class="checkbox" type="checkbox" id="reg-log" name="reg-log" />
+						<div class="card-3d-wrap mx-auto">
+							<div class="card-3d-wrapper">
+								<div class="card-front">
+									<div class="center-wrap">
+										<div class="section text-center">
+											<form asp-controller="Access" asp-action="Login" method="POST" class="inputForm">
+												<h4 class="mb-4 pb-3">Iniciar Sesión</h4>
+												<div class="form-group">
+													<input asp-for="Correo" type="email" name="Correo" class="form-style" placeholder="example@colegio.pe" id="logemail" autocomplete="off">
+													<i class="input-icon uil uil-at"></i>
+													<i>
+														<span asp-validation-for="Correo" style="color:indianred"></span>
+													</i>
+												</div>
+												<div class="form-group mt-2">
+													<input asp-for="Password" type="password" name="Password" class="form-style" placeholder="Contraseña" id="logpass" autocomplete="off">
+													<i class="input-icon uil uil-lock-alt"></i>
+													<i>
+														<span asp-validation-for="Password" style="color:indianred"></span>
+													</i>
+												</div>
+												@if (ViewData["Mensaje"] != null)
+												{
+													<div class="alert alert-danger" role="alert">
+														@ViewData["Mensaje"]
+													</div>
+												}
+												<button type="submit" class="btn mt-4">Iniciar</button>
+											</form>
+										</div>
+									</div>
+								</div>								
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+</body>
+</html>

@@ -1,0 +1,202 @@
+﻿@model IEnumerable<ProyectoColegio.Domain.Usuario>
+
+@{
+    ViewData["Title"] = "Index";
+}
+@if (User.IsInRole("Estudiante"))
+{
+    <h1>TU SECCION</h1>
+}
+
+
+@if (User.IsInRole("Administrador"))
+{
+    <h1>ESTUDIANTES DEL COLEGIO</h1>
+    <div class="row">
+        <div class="row">
+            <div class="col-4">
+                <label for="OrdenCategoria" class="form-label">Filtrar por estado de Categoria:</label>
+                <select class="form-select" id="OrdenCategoria">
+                    <option value="Primaria">Primaria</option>
+                    <option value="Secundaria">Secundaria</option>
+                </select>
+            </div>
+            <div class="col-4">
+                <label for="OrdenGrado" class="form-label">Seleccionar Grado:</label>
+                <select class="form-select" id="OrdenGrado">
+                    <!-- Las opciones se llenarán dinámicamente con JavaScript -->
+                </select>
+            </div>
+        </div>
+    </div>
+    <br />
+    <p>
+        <a asp-action="Create">Agregar nuevo estudiante</a>
+    </p>
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Dni)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nombres)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Apellidos)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Correo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Grado)
+            </th>
+            <th>
+                Categoria
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Dni)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nombres)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Apellidos)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Correo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Grado)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TipoGrado)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.UsuarioID">Editar</a> |
+                <a asp-action="Details" asp-route-id="@item.UsuarioID">Detalles</a> |
+                <a asp-action="Delete" asp-route-id="@item.UsuarioID">Eliminar</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+
+@if (User.IsInRole("Administrador"))
+{
+    @section Scripts {
+
+    @{
+            await Html.RenderPartialAsync("_ValidationScriptsPartial");
+        }
+        <script>
+            document.addEventListener('DOMContentLoaded', function () {
+                var OrdenCategoria = document.getElementById('OrdenCategoria');
+                var OrdenGrado = document.getElementById('OrdenGrado');
+
+                // Establecer los valores predeterminados
+                OrdenCategoria.value = 'Primaria';
+                OrdenGrado.value = '1';
+
+                // Actualizar las opciones del combo box de grados según la categoría predeterminada
+                actualizarOpcionesGrado('Primaria');
+
+                // Filtrar la tabla según la categoría y grado predeterminados
+                filtrarTablaPorCategoriaYGrado('Primaria', '1');
+
+                OrdenCategoria.addEventListener('change', function () {
+                    var selectedCategoria = this.value;
+                    var selectedGrado = OrdenGrado.value;
+
+                    // Actualiza las opciones del combo box de grados según la categoría seleccionada
+                    actualizarOpcionesGrado(selectedCategoria);
+
+                    // Filtra la tabla según la categoría y grado seleccionados
+                    filtrarTablaPorCategoriaYGrado(selectedCategoria, selectedGrado);
+                });
+
+                OrdenGrado.addEventListener('change', function () {
+                    var selectedGrado = this.value;
+                    var selectedCategoria = OrdenCategoria.value;
+
+                    // Filtra la tabla según la categoría y grado seleccionados
+                    filtrarTablaPorCategoriaYGrado(selectedCategoria, selectedGrado);
+                });
+
+                // Función para filtrar la tabla por categoría y grado
+                function filtrarTablaPorCategoriaYGrado(categoria, grado) {
+                    // Obtén todas las filas de la tabla
+                    var filas = document.querySelectorAll('tbody tr');
+
+                    // Itera sobre las filas y muestra/oculta según la categoría y grado seleccionados
+                    filas.forEach(function (fila) {
+                        var categoriaFila = fila.querySelector('td:nth-child(6)').innerText.trim(); // Ajusta esto según tu estructura de tabla
+                        var gradoFila = fila.querySelector('td:nth-child(5)').innerText.trim(); // Ajusta esto según tu estructura de tabla
+
+                        var mostrarFila = (categoria === '' || categoriaFila === categoria) &&
+                            (grado === '' || gradoFila === grado);
+
+                        // Muestra la fila si coincide con la categoría y grado seleccionados
+                        fila.style.display = mostrarFila ? '' : 'none';
+                    });
+                }
+
+                // Función para actualizar las opciones del combo box de grados según la categoría seleccionada
+                function actualizarOpcionesGrado(categoria) {
+                    var OrdenGrado = document.getElementById('OrdenGrado');
+
+                    // Limpia las opciones actuales
+                    OrdenGrado.innerHTML = '';
+
+                    // Agrega las nuevas opciones según la categoría seleccionada
+                    if (categoria === 'Primaria') {
+                        for (var i = 1; i <= 6; i++) {
+                            var opcion = document.createElement('option');
+                            opcion.value = i;
+                            opcion.text = i;
+                            OrdenGrado.appendChild(opcion);
+                        }
+                    } else if (categoria === 'Secundaria') {
+                        for (var i = 1; i <= 5; i++) {
+                            var opcion = document.createElement('option');
+                            opcion.value = i;
+                            opcion.text = i;
+                            OrdenGrado.appendChild(opcion);
+                        }
+                    }
+                }
+
+                // Agrega esto donde quieras que aparezca el botón de actualización
+                var resetFiltroButton = document.createElement('button');
+                resetFiltroButton.textContent = 'Limpiar Filtro';
+                resetFiltroButton.className = 'btn btn-secondary';
+                resetFiltroButton.addEventListener('click', function () {
+                    // Limpia los valores de los combo boxes y muestra todas las filas
+                    OrdenCategoria.value = '';
+                    OrdenGrado.value = '';
+                    filtrarTablaPorCategoriaYGrado('', '');
+                });
+
+                var estadoReservaContainer = document.querySelector('.col-4');
+                estadoReservaContainer.appendChild(resetFiltroButton);
+            });
+        </script>
+
+    }
+
+}
+@if (User.IsInRole("Administrador"))
+{
+    
+}
+
+
+
