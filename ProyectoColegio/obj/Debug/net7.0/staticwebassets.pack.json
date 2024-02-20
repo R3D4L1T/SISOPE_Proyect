@@ -5,8 +5,24 @@
       "PackagePath": "staticwebassets\\ProyectoColegio.bundle.scp.css"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\Imagenes\\CURSO-DE-REDES-UVM-FACIALIX.jpg",
-      "PackagePath": "staticwebassets\\Imagenes\\CURSO-DE-REDES-UVM-FACIALIX.jpg"
+      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\Imagenes\\1490820801-12_82409.ico",
+      "PackagePath": "staticwebassets\\Imagenes\\1490820801-12_82409.ico"
+    },
+    {
+      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\Imagenes\\1490820801-12_82409.png",
+      "PackagePath": "staticwebassets\\Imagenes\\1490820801-12_82409.png"
+    },
+    {
+      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\Imagenes\\ICO COLLAGE.png",
+      "PackagePath": "staticwebassets\\Imagenes\\ICO COLLAGE.png"
+    },
+    {
+      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\Imagenes\\Welcome.png",
+      "PackagePath": "staticwebassets\\Imagenes\\Welcome.png"
+    },
+    {
+      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\css\\StyleHome.css",
+      "PackagePath": "staticwebassets\\css\\StyleHome.css"
     },
     {
       "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\css\\sb-admin-2.css",
@@ -277,8 +293,16 @@
       "PackagePath": "staticwebassets\\uploads\\2b44defa-757d-4c38-908a-6cec4be50c52.png"
     },
     {
+      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\uploads\\4b4e8204-ad2d-4fd7-8d49-cb1a06b34d17.png",
+      "PackagePath": "staticwebassets\\uploads\\4b4e8204-ad2d-4fd7-8d49-cb1a06b34d17.png"
+    },
+    {
       "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\uploads\\573071bb-2e24-4b01-b8ce-24a816b45325.png",
       "PackagePath": "staticwebassets\\uploads\\573071bb-2e24-4b01-b8ce-24a816b45325.png"
+    },
+    {
+      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\uploads\\87bbe484-e2ac-4703-b8b1-39e5b227abb3.png",
+      "PackagePath": "staticwebassets\\uploads\\87bbe484-e2ac-4703-b8b1-39e5b227abb3.png"
     },
     {
       "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\uploads\\b74792fa-53c5-4a2d-b372-d847dc2589dd.png",
@@ -289,8 +313,16 @@
       "PackagePath": "staticwebassets\\uploads\\bef4a647-d229-4ad0-9ebe-4c6f6773ff5d.png"
     },
     {
+      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\uploads\\bfe901a9-cb00-4bc1-a4ed-328b01e92edb.png",
+      "PackagePath": "staticwebassets\\uploads\\bfe901a9-cb00-4bc1-a4ed-328b01e92edb.png"
+    },
+    {
       "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\uploads\\c69499a9-e7a2-405a-ad78-5a35478748db.png",
       "PackagePath": "staticwebassets\\uploads\\c69499a9-e7a2-405a-ad78-5a35478748db.png"
+    },
+    {
+      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\uploads\\e17e7c33-5eed-434a-8132-348cc4ce82d3.png",
+      "PackagePath": "staticwebassets\\uploads\\e17e7c33-5eed-434a-8132-348cc4ce82d3.png"
     },
     {
       "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\uploads\\ffd54617-80f0-4870-8bfa-08984a5fdf8d.png",

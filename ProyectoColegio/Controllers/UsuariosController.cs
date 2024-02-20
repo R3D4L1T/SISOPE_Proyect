@@ -285,15 +285,19 @@ namespace ProyectoColegio.Controllers
                     C4 = j.cs.C4,
                     Final = j.cs.Final
                 })
-                .ToListAsync();
+                .ToListAsync(); // Trae los resultados de la base de datos
 
             if (resultados == null || resultados.Count == 0)
             {
                 return NotFound();
             }
 
-            return View(resultados);
+            // Aplica la eliminación de cursos duplicados después de obtener los resultados
+            var resultadosSinDuplicados = resultados.DistinctBy(dc => dc.NombreCurso).ToList();
+
+            return View(resultadosSinDuplicados);
         }
+
         [Authorize(Roles = "Administrador, Docente, Estudiante")]
         public async Task<IActionResult> Seccion()
         {

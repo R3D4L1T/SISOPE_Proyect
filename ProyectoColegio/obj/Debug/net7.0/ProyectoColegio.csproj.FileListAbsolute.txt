@@ -1311,3 +1311,4 @@ D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.
 D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\ProyectoColegio.pdb
 D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\ProyectoColegio.genruntimeconfig.cache
 D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\ref\ProyectoColegio.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\obj\Debug\net7.0\ProyectoColegio.sourcelink.json
