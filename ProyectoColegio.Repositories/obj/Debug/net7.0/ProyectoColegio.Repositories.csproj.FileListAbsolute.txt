@@ -42,3 +42,15 @@ D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.
 D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio.Repositories\obj\Debug\net7.0\refint\ProyectoColegio.Repositories.dll
 D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio.Repositories\obj\Debug\net7.0\ProyectoColegio.Repositories.pdb
 D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio.Repositories\obj\Debug\net7.0\ref\ProyectoColegio.Repositories.dll
+C:\Users\USUARIO\Downloads\ProyectoColegio\ProyectoColegio.Repositories\bin\Debug\net7.0\ProyectoColegio.Repositories.deps.json
+C:\Users\USUARIO\Downloads\ProyectoColegio\ProyectoColegio.Repositories\bin\Debug\net7.0\ProyectoColegio.Repositories.dll
+C:\Users\USUARIO\Downloads\ProyectoColegio\ProyectoColegio.Repositories\bin\Debug\net7.0\ProyectoColegio.Repositories.pdb
+C:\Users\USUARIO\Downloads\ProyectoColegio\ProyectoColegio.Repositories\obj\Debug\net7.0\ProyectoColegio.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Downloads\ProyectoColegio\ProyectoColegio.Repositories\obj\Debug\net7.0\ProyectoColegio.Repositories.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Downloads\ProyectoColegio\ProyectoColegio.Repositories\obj\Debug\net7.0\ProyectoColegio.Repositories.AssemblyInfo.cs
+C:\Users\USUARIO\Downloads\ProyectoColegio\ProyectoColegio.Repositories\obj\Debug\net7.0\ProyectoColegio.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Downloads\ProyectoColegio\ProyectoColegio.Repositories\obj\Debug\net7.0\ProyectoColegio.Repositories.sourcelink.json
+C:\Users\USUARIO\Downloads\ProyectoColegio\ProyectoColegio.Repositories\obj\Debug\net7.0\ProyectoColegio.Repositories.dll
+C:\Users\USUARIO\Downloads\ProyectoColegio\ProyectoColegio.Repositories\obj\Debug\net7.0\refint\ProyectoColegio.Repositories.dll
+C:\Users\USUARIO\Downloads\ProyectoColegio\ProyectoColegio.Repositories\obj\Debug\net7.0\ProyectoColegio.Repositories.pdb
+C:\Users\USUARIO\Downloads\ProyectoColegio\ProyectoColegio.Repositories\obj\Debug\net7.0\ref\ProyectoColegio.Repositories.dll

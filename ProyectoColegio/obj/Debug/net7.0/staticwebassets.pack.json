@@ -1,331 +1,351 @@
 {
   "Files": [
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ProyectoColegio.bundle.scp.css",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ProyectoColegio.bundle.scp.css",
       "PackagePath": "staticwebassets\\ProyectoColegio.bundle.scp.css"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\Imagenes\\1490820801-12_82409.ico",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\Imagenes\\1490820801-12_82409.ico",
       "PackagePath": "staticwebassets\\Imagenes\\1490820801-12_82409.ico"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\Imagenes\\1490820801-12_82409.png",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\Imagenes\\1490820801-12_82409.png",
       "PackagePath": "staticwebassets\\Imagenes\\1490820801-12_82409.png"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\Imagenes\\ICO COLLAGE.png",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\Imagenes\\ICO COLLAGE.png",
       "PackagePath": "staticwebassets\\Imagenes\\ICO COLLAGE.png"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\Imagenes\\Welcome.png",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\Imagenes\\Welcome.png",
       "PackagePath": "staticwebassets\\Imagenes\\Welcome.png"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\css\\StyleHome.css",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\css\\StyleHome.css",
       "PackagePath": "staticwebassets\\css\\StyleHome.css"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\css\\sb-admin-2.css",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\css\\sb-admin-2.css",
       "PackagePath": "staticwebassets\\css\\sb-admin-2.css"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\css\\sb-admin-2.min.css",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\css\\sb-admin-2.min.css",
       "PackagePath": "staticwebassets\\css\\sb-admin-2.min.css"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\css\\style.css",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\css\\style.css",
       "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\css\\welcome.css",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\css\\welcome.css",
       "PackagePath": "staticwebassets\\css\\welcome.css"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\uploads\\1e1f6b97-f73d-432c-a486-b7dd9ca82678.png",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\uploads\\16387f71-3190-4e4e-afa3-f9d708579cad.jpg",
+      "PackagePath": "staticwebassets\\uploads\\16387f71-3190-4e4e-afa3-f9d708579cad.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\uploads\\1e1f6b97-f73d-432c-a486-b7dd9ca82678.png",
       "PackagePath": "staticwebassets\\uploads\\1e1f6b97-f73d-432c-a486-b7dd9ca82678.png"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\uploads\\2abb3b46-551b-484a-a49b-b47f40c082a9.png",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\uploads\\2abb3b46-551b-484a-a49b-b47f40c082a9.png",
       "PackagePath": "staticwebassets\\uploads\\2abb3b46-551b-484a-a49b-b47f40c082a9.png"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\uploads\\2b44defa-757d-4c38-908a-6cec4be50c52.png",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\uploads\\2b44defa-757d-4c38-908a-6cec4be50c52.png",
       "PackagePath": "staticwebassets\\uploads\\2b44defa-757d-4c38-908a-6cec4be50c52.png"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\uploads\\4b4e8204-ad2d-4fd7-8d49-cb1a06b34d17.png",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\uploads\\4b4e8204-ad2d-4fd7-8d49-cb1a06b34d17.png",
       "PackagePath": "staticwebassets\\uploads\\4b4e8204-ad2d-4fd7-8d49-cb1a06b34d17.png"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\uploads\\573071bb-2e24-4b01-b8ce-24a816b45325.png",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\uploads\\52fb0455-61eb-4bf9-8fc9-38016e7bd121.jpg",
+      "PackagePath": "staticwebassets\\uploads\\52fb0455-61eb-4bf9-8fc9-38016e7bd121.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\uploads\\573071bb-2e24-4b01-b8ce-24a816b45325.png",
       "PackagePath": "staticwebassets\\uploads\\573071bb-2e24-4b01-b8ce-24a816b45325.png"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\uploads\\87bbe484-e2ac-4703-b8b1-39e5b227abb3.png",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\uploads\\87bbe484-e2ac-4703-b8b1-39e5b227abb3.png",
       "PackagePath": "staticwebassets\\uploads\\87bbe484-e2ac-4703-b8b1-39e5b227abb3.png"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\uploads\\b74792fa-53c5-4a2d-b372-d847dc2589dd.png",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\uploads\\a97e3a60-e7cb-4ac4-9210-494894390df3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\a97e3a60-e7cb-4ac4-9210-494894390df3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\uploads\\b74792fa-53c5-4a2d-b372-d847dc2589dd.png",
       "PackagePath": "staticwebassets\\uploads\\b74792fa-53c5-4a2d-b372-d847dc2589dd.png"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\uploads\\bef4a647-d229-4ad0-9ebe-4c6f6773ff5d.png",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\uploads\\bef4a647-d229-4ad0-9ebe-4c6f6773ff5d.png",
       "PackagePath": "staticwebassets\\uploads\\bef4a647-d229-4ad0-9ebe-4c6f6773ff5d.png"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\uploads\\bfe901a9-cb00-4bc1-a4ed-328b01e92edb.png",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\uploads\\bfe901a9-cb00-4bc1-a4ed-328b01e92edb.png",
       "PackagePath": "staticwebassets\\uploads\\bfe901a9-cb00-4bc1-a4ed-328b01e92edb.png"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\uploads\\c69499a9-e7a2-405a-ad78-5a35478748db.png",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\uploads\\c39dd019-b9a9-4608-8835-c8f544449808.png",
+      "PackagePath": "staticwebassets\\uploads\\c39dd019-b9a9-4608-8835-c8f544449808.png"
+    },
+    {
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\uploads\\c67f1057-6722-4735-9679-0a1ebc5c0a7f.png",
+      "PackagePath": "staticwebassets\\uploads\\c67f1057-6722-4735-9679-0a1ebc5c0a7f.png"
+    },
+    {
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\uploads\\c69499a9-e7a2-405a-ad78-5a35478748db.png",
       "PackagePath": "staticwebassets\\uploads\\c69499a9-e7a2-405a-ad78-5a35478748db.png"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\uploads\\e17e7c33-5eed-434a-8132-348cc4ce82d3.png",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\uploads\\e17e7c33-5eed-434a-8132-348cc4ce82d3.png",
       "PackagePath": "staticwebassets\\uploads\\e17e7c33-5eed-434a-8132-348cc4ce82d3.png"
     },
     {
-      "Id": "D:\\UPN\\CICLO 6\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\VENTA\\NUEVA VERSION\\PROY - V2.0\\ProyectoColegio\\ProyectoColegio\\wwwroot\\uploads\\ffd54617-80f0-4870-8bfa-08984a5fdf8d.png",
+      "Id": "C:\\Users\\USUARIO\\Downloads\\ProyectoColegio\\ProyectoColegio\\wwwroot\\uploads\\ffd54617-80f0-4870-8bfa-08984a5fdf8d.png",
       "PackagePath": "staticwebassets\\uploads\\ffd54617-80f0-4870-8bfa-08984a5fdf8d.png"
     },
     {

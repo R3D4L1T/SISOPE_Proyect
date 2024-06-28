@@ -30,5 +30,9 @@ namespace ProyectoColegio.Domain
         public Rol? Rol { get; set; }
 
         public ICollection<ClasesEstudiantes>? ClasesEstudiantes { get; set; }
+
+      
+
+        
     }
 }

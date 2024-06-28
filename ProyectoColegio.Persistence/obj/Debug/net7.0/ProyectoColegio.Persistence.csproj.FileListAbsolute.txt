@@ -58,3 +58,19 @@ D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.
 D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio.Persistence\obj\Debug\net7.0\refint\ProyectoColegio.Persistence.dll
 D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio.Persistence\obj\Debug\net7.0\ProyectoColegio.Persistence.pdb
 D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio.Persistence\obj\Debug\net7.0\ref\ProyectoColegio.Persistence.dll
+C:\Users\USUARIO\Downloads\ProyectoColegio\ProyectoColegio.Persistence\bin\Debug\net7.0\ProyectoColegio.Persistence.deps.json
+C:\Users\USUARIO\Downloads\ProyectoColegio\ProyectoColegio.Persistence\bin\Debug\net7.0\ProyectoColegio.Persistence.dll
+C:\Users\USUARIO\Downloads\ProyectoColegio\ProyectoColegio.Persistence\bin\Debug\net7.0\ProyectoColegio.Persistence.pdb
+C:\Users\USUARIO\Downloads\ProyectoColegio\ProyectoColegio.Persistence\bin\Debug\net7.0\ProyectoColegio.Domain.dll
+C:\Users\USUARIO\Downloads\ProyectoColegio\ProyectoColegio.Persistence\bin\Debug\net7.0\ProyectoColegio.Domain.pdb
+C:\Users\USUARIO\Downloads\ProyectoColegio\ProyectoColegio.Persistence\obj\Debug\net7.0\ProyectoColegio.Persistence.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Downloads\ProyectoColegio\ProyectoColegio.Persistence\obj\Debug\net7.0\ProyectoColegio.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Downloads\ProyectoColegio\ProyectoColegio.Persistence\obj\Debug\net7.0\ProyectoColegio.Persistence.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Downloads\ProyectoColegio\ProyectoColegio.Persistence\obj\Debug\net7.0\ProyectoColegio.Persistence.AssemblyInfo.cs
+C:\Users\USUARIO\Downloads\ProyectoColegio\ProyectoColegio.Persistence\obj\Debug\net7.0\ProyectoColegio.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Downloads\ProyectoColegio\ProyectoColegio.Persistence\obj\Debug\net7.0\ProyectoColegio.Persistence.sourcelink.json
+C:\Users\USUARIO\Downloads\ProyectoColegio\ProyectoColegio.Persistence\obj\Debug\net7.0\Proyecto.DC242A84.Up2Date
+C:\Users\USUARIO\Downloads\ProyectoColegio\ProyectoColegio.Persistence\obj\Debug\net7.0\ProyectoColegio.Persistence.dll
+C:\Users\USUARIO\Downloads\ProyectoColegio\ProyectoColegio.Persistence\obj\Debug\net7.0\refint\ProyectoColegio.Persistence.dll
+C:\Users\USUARIO\Downloads\ProyectoColegio\ProyectoColegio.Persistence\obj\Debug\net7.0\ProyectoColegio.Persistence.pdb
+C:\Users\USUARIO\Downloads\ProyectoColegio\ProyectoColegio.Persistence\obj\Debug\net7.0\ref\ProyectoColegio.Persistence.dll

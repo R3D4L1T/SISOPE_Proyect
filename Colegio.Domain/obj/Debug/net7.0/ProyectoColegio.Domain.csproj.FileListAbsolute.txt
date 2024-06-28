@@ -46,3 +46,16 @@ D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.
 D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\Colegio.Domain\obj\Debug\net7.0\refint\ProyectoColegio.Domain.dll
 D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\Colegio.Domain\obj\Debug\net7.0\ProyectoColegio.Domain.pdb
 D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\Colegio.Domain\obj\Debug\net7.0\ref\ProyectoColegio.Domain.dll
+C:\Users\USUARIO\Downloads\ProyectoColegio\Colegio.Domain\bin\Debug\net7.0\ProyectoColegio.Domain.deps.json
+C:\Users\USUARIO\Downloads\ProyectoColegio\Colegio.Domain\bin\Debug\net7.0\ProyectoColegio.Domain.dll
+C:\Users\USUARIO\Downloads\ProyectoColegio\Colegio.Domain\bin\Debug\net7.0\ProyectoColegio.Domain.pdb
+C:\Users\USUARIO\Downloads\ProyectoColegio\Colegio.Domain\obj\Debug\net7.0\ProyectoColegio.Domain.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Downloads\ProyectoColegio\Colegio.Domain\obj\Debug\net7.0\ProyectoColegio.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Downloads\ProyectoColegio\Colegio.Domain\obj\Debug\net7.0\ProyectoColegio.Domain.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Downloads\ProyectoColegio\Colegio.Domain\obj\Debug\net7.0\ProyectoColegio.Domain.AssemblyInfo.cs
+C:\Users\USUARIO\Downloads\ProyectoColegio\Colegio.Domain\obj\Debug\net7.0\ProyectoColegio.Domain.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Downloads\ProyectoColegio\Colegio.Domain\obj\Debug\net7.0\ProyectoColegio.Domain.sourcelink.json
+C:\Users\USUARIO\Downloads\ProyectoColegio\Colegio.Domain\obj\Debug\net7.0\ProyectoColegio.Domain.dll
+C:\Users\USUARIO\Downloads\ProyectoColegio\Colegio.Domain\obj\Debug\net7.0\refint\ProyectoColegio.Domain.dll
+C:\Users\USUARIO\Downloads\ProyectoColegio\Colegio.Domain\obj\Debug\net7.0\ProyectoColegio.Domain.pdb
+C:\Users\USUARIO\Downloads\ProyectoColegio\Colegio.Domain\obj\Debug\net7.0\ref\ProyectoColegio.Domain.dll

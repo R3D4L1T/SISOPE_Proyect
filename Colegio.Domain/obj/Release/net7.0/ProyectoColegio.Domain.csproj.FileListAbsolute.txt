@@ -1,0 +1,13 @@
+C:\Users\USUARIO\Downloads\ProyectoColegio\Colegio.Domain\bin\Release\net7.0\ProyectoColegio.Domain.deps.json
+C:\Users\USUARIO\Downloads\ProyectoColegio\Colegio.Domain\bin\Release\net7.0\ProyectoColegio.Domain.dll
+C:\Users\USUARIO\Downloads\ProyectoColegio\Colegio.Domain\bin\Release\net7.0\ProyectoColegio.Domain.pdb
+C:\Users\USUARIO\Downloads\ProyectoColegio\Colegio.Domain\obj\Release\net7.0\ProyectoColegio.Domain.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Downloads\ProyectoColegio\Colegio.Domain\obj\Release\net7.0\ProyectoColegio.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Downloads\ProyectoColegio\Colegio.Domain\obj\Release\net7.0\ProyectoColegio.Domain.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Downloads\ProyectoColegio\Colegio.Domain\obj\Release\net7.0\ProyectoColegio.Domain.AssemblyInfo.cs
+C:\Users\USUARIO\Downloads\ProyectoColegio\Colegio.Domain\obj\Release\net7.0\ProyectoColegio.Domain.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Downloads\ProyectoColegio\Colegio.Domain\obj\Release\net7.0\ProyectoColegio.Domain.sourcelink.json
+C:\Users\USUARIO\Downloads\ProyectoColegio\Colegio.Domain\obj\Release\net7.0\ProyectoColegio.Domain.dll
+C:\Users\USUARIO\Downloads\ProyectoColegio\Colegio.Domain\obj\Release\net7.0\refint\ProyectoColegio.Domain.dll
+C:\Users\USUARIO\Downloads\ProyectoColegio\Colegio.Domain\obj\Release\net7.0\ProyectoColegio.Domain.pdb
+C:\Users\USUARIO\Downloads\ProyectoColegio\Colegio.Domain\obj\Release\net7.0\ref\ProyectoColegio.Domain.dll

@@ -5,11 +5,11 @@ VisualStudioVersion = 17.7.34009.444
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProyectoColegio", "ProyectoColegio\ProyectoColegio.csproj", "{6CB1E0A9-25A4-428B-99B0-6099EADDF4AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProyectoColegio.Domain", "Colegio.Domain\ProyectoColegio.Domain.csproj", "{D4E26BD4-5221-49F7-A16A-7B870FC1D803}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProyectoColegio.Domain", "Colegio.Domain\ProyectoColegio.Domain.csproj", "{D4E26BD4-5221-49F7-A16A-7B870FC1D803}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProyectoColegio.Persistence", "ProyectoColegio.Persistence\ProyectoColegio.Persistence.csproj", "{43395CD1-AFFB-442D-A0B3-FD2F9BAB1BE9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProyectoColegio.Persistence", "ProyectoColegio.Persistence\ProyectoColegio.Persistence.csproj", "{43395CD1-AFFB-442D-A0B3-FD2F9BAB1BE9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProyectoColegio.Repositories", "ProyectoColegio.Repositories\ProyectoColegio.Repositories.csproj", "{0928DF12-5156-4672-8B90-5F05042E04E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProyectoColegio.Repositories", "ProyectoColegio.Repositories\ProyectoColegio.Repositories.csproj", "{0928DF12-5156-4672-8B90-5F05042E04E4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

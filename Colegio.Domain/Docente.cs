@@ -18,5 +18,12 @@ namespace ProyectoColegio.Domain
         public int? IdLogin { get; set; }
 
         public ICollection<Clases>? Sesiones { get; set; }
+
+        // Cambios realizados para hacer la colección de solo lectura
+        /*private readonly List<Clases> _sesiones = new List<Clases>();
+        public IReadOnlyCollection<Clases> Sesiones => _sesiones.AsReadOnly();*/
+
+        
     }
+
 }

@@ -9,175 +9,175 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ProyectoColegio
 build_property.RootNamespace = ProyectoColegio
-build_property.ProjectDir = D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio\
+build_property.ProjectDir = C:\Users\USUARIO\Documents\Colegio\ProyectoColegio\ProyectoColegio\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\NUEVA VERSION\PROY - V2.0\ProyectoColegio\ProyectoColegio
+build_property.MSBuildProjectDirectory = C:\Users\USUARIO\Documents\Colegio\ProyectoColegio\ProyectoColegio
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/UPN/CICLO 6/DISEÑO Y ARQUITECTURA DE SOFTWARE/VENTA/NUEVA VERSION/PROY - V2.0/ProyectoColegio/ProyectoColegio/Views/Access/Login.cshtml]
+[C:/Users/USUARIO/Documents/Colegio/ProyectoColegio/ProyectoColegio/Views/Access/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjZXNzXExvZ2luLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UPN/CICLO 6/DISEÑO Y ARQUITECTURA DE SOFTWARE/VENTA/NUEVA VERSION/PROY - V2.0/ProyectoColegio/ProyectoColegio/Views/Access/Registrar.cshtml]
+[C:/Users/USUARIO/Documents/Colegio/ProyectoColegio/ProyectoColegio/Views/Access/Registrar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjZXNzXFJlZ2lzdHJhci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UPN/CICLO 6/DISEÑO Y ARQUITECTURA DE SOFTWARE/VENTA/NUEVA VERSION/PROY - V2.0/ProyectoColegio/ProyectoColegio/Views/ClasesEstudiantes/Create.cshtml]
+[C:/Users/USUARIO/Documents/Colegio/ProyectoColegio/ProyectoColegio/Views/ClasesEstudiantes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhc2VzRXN0dWRpYW50ZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UPN/CICLO 6/DISEÑO Y ARQUITECTURA DE SOFTWARE/VENTA/NUEVA VERSION/PROY - V2.0/ProyectoColegio/ProyectoColegio/Views/ClasesEstudiantes/Delete.cshtml]
+[C:/Users/USUARIO/Documents/Colegio/ProyectoColegio/ProyectoColegio/Views/ClasesEstudiantes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhc2VzRXN0dWRpYW50ZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UPN/CICLO 6/DISEÑO Y ARQUITECTURA DE SOFTWARE/VENTA/NUEVA VERSION/PROY - V2.0/ProyectoColegio/ProyectoColegio/Views/ClasesEstudiantes/Details.cshtml]
+[C:/Users/USUARIO/Documents/Colegio/ProyectoColegio/ProyectoColegio/Views/ClasesEstudiantes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhc2VzRXN0dWRpYW50ZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UPN/CICLO 6/DISEÑO Y ARQUITECTURA DE SOFTWARE/VENTA/NUEVA VERSION/PROY - V2.0/ProyectoColegio/ProyectoColegio/Views/ClasesEstudiantes/Edit.cshtml]
+[C:/Users/USUARIO/Documents/Colegio/ProyectoColegio/ProyectoColegio/Views/ClasesEstudiantes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhc2VzRXN0dWRpYW50ZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UPN/CICLO 6/DISEÑO Y ARQUITECTURA DE SOFTWARE/VENTA/NUEVA VERSION/PROY - V2.0/ProyectoColegio/ProyectoColegio/Views/ClasesEstudiantes/Index.cshtml]
+[C:/Users/USUARIO/Documents/Colegio/ProyectoColegio/ProyectoColegio/Views/ClasesEstudiantes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhc2VzRXN0dWRpYW50ZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UPN/CICLO 6/DISEÑO Y ARQUITECTURA DE SOFTWARE/VENTA/NUEVA VERSION/PROY - V2.0/ProyectoColegio/ProyectoColegio/Views/Clases/Create.cshtml]
+[C:/Users/USUARIO/Documents/Colegio/ProyectoColegio/ProyectoColegio/Views/Clases/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhc2VzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UPN/CICLO 6/DISEÑO Y ARQUITECTURA DE SOFTWARE/VENTA/NUEVA VERSION/PROY - V2.0/ProyectoColegio/ProyectoColegio/Views/Clases/Delete.cshtml]
+[C:/Users/USUARIO/Documents/Colegio/ProyectoColegio/ProyectoColegio/Views/Clases/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhc2VzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UPN/CICLO 6/DISEÑO Y ARQUITECTURA DE SOFTWARE/VENTA/NUEVA VERSION/PROY - V2.0/ProyectoColegio/ProyectoColegio/Views/Clases/Details.cshtml]
+[C:/Users/USUARIO/Documents/Colegio/ProyectoColegio/ProyectoColegio/Views/Clases/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhc2VzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UPN/CICLO 6/DISEÑO Y ARQUITECTURA DE SOFTWARE/VENTA/NUEVA VERSION/PROY - V2.0/ProyectoColegio/ProyectoColegio/Views/Clases/Edit.cshtml]
+[C:/Users/USUARIO/Documents/Colegio/ProyectoColegio/ProyectoColegio/Views/Clases/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhc2VzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UPN/CICLO 6/DISEÑO Y ARQUITECTURA DE SOFTWARE/VENTA/NUEVA VERSION/PROY - V2.0/ProyectoColegio/ProyectoColegio/Views/Clases/Index.cshtml]
+[C:/Users/USUARIO/Documents/Colegio/ProyectoColegio/ProyectoColegio/Views/Clases/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhc2VzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UPN/CICLO 6/DISEÑO Y ARQUITECTURA DE SOFTWARE/VENTA/NUEVA VERSION/PROY - V2.0/ProyectoColegio/ProyectoColegio/Views/Cursos/Create.cshtml]
+[C:/Users/USUARIO/Documents/Colegio/ProyectoColegio/ProyectoColegio/Views/Cursos/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3Vyc29zXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UPN/CICLO 6/DISEÑO Y ARQUITECTURA DE SOFTWARE/VENTA/NUEVA VERSION/PROY - V2.0/ProyectoColegio/ProyectoColegio/Views/Cursos/Delete.cshtml]
+[C:/Users/USUARIO/Documents/Colegio/ProyectoColegio/ProyectoColegio/Views/Cursos/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3Vyc29zXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UPN/CICLO 6/DISEÑO Y ARQUITECTURA DE SOFTWARE/VENTA/NUEVA VERSION/PROY - V2.0/ProyectoColegio/ProyectoColegio/Views/Cursos/Details.cshtml]
+[C:/Users/USUARIO/Documents/Colegio/ProyectoColegio/ProyectoColegio/Views/Cursos/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3Vyc29zXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UPN/CICLO 6/DISEÑO Y ARQUITECTURA DE SOFTWARE/VENTA/NUEVA VERSION/PROY - V2.0/ProyectoColegio/ProyectoColegio/Views/Cursos/Edit.cshtml]
+[C:/Users/USUARIO/Documents/Colegio/ProyectoColegio/ProyectoColegio/Views/Cursos/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3Vyc29zXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UPN/CICLO 6/DISEÑO Y ARQUITECTURA DE SOFTWARE/VENTA/NUEVA VERSION/PROY - V2.0/ProyectoColegio/ProyectoColegio/Views/Cursos/Index.cshtml]
+[C:/Users/USUARIO/Documents/Colegio/ProyectoColegio/ProyectoColegio/Views/Cursos/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3Vyc29zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UPN/CICLO 6/DISEÑO Y ARQUITECTURA DE SOFTWARE/VENTA/NUEVA VERSION/PROY - V2.0/ProyectoColegio/ProyectoColegio/Views/Cursos/VistadeCursos.cshtml]
+[C:/Users/USUARIO/Documents/Colegio/ProyectoColegio/ProyectoColegio/Views/Cursos/VistadeCursos.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3Vyc29zXFZpc3RhZGVDdXJzb3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UPN/CICLO 6/DISEÑO Y ARQUITECTURA DE SOFTWARE/VENTA/NUEVA VERSION/PROY - V2.0/ProyectoColegio/ProyectoColegio/Views/Docentes/Create.cshtml]
+[C:/Users/USUARIO/Documents/Colegio/ProyectoColegio/ProyectoColegio/Views/Docentes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jZW50ZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UPN/CICLO 6/DISEÑO Y ARQUITECTURA DE SOFTWARE/VENTA/NUEVA VERSION/PROY - V2.0/ProyectoColegio/ProyectoColegio/Views/Docentes/Delete.cshtml]
+[C:/Users/USUARIO/Documents/Colegio/ProyectoColegio/ProyectoColegio/Views/Docentes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jZW50ZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UPN/CICLO 6/DISEÑO Y ARQUITECTURA DE SOFTWARE/VENTA/NUEVA VERSION/PROY - V2.0/ProyectoColegio/ProyectoColegio/Views/Docentes/Details.cshtml]
+[C:/Users/USUARIO/Documents/Colegio/ProyectoColegio/ProyectoColegio/Views/Docentes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jZW50ZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UPN/CICLO 6/DISEÑO Y ARQUITECTURA DE SOFTWARE/VENTA/NUEVA VERSION/PROY - V2.0/ProyectoColegio/ProyectoColegio/Views/Docentes/Edit.cshtml]
+[C:/Users/USUARIO/Documents/Colegio/ProyectoColegio/ProyectoColegio/Views/Docentes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jZW50ZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UPN/CICLO 6/DISEÑO Y ARQUITECTURA DE SOFTWARE/VENTA/NUEVA VERSION/PROY - V2.0/ProyectoColegio/ProyectoColegio/Views/Docentes/Index.cshtml]
+[C:/Users/USUARIO/Documents/Colegio/ProyectoColegio/ProyectoColegio/Views/Docentes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jZW50ZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UPN/CICLO 6/DISEÑO Y ARQUITECTURA DE SOFTWARE/VENTA/NUEVA VERSION/PROY - V2.0/ProyectoColegio/ProyectoColegio/Views/Docentes/Notas.cshtml]
+[C:/Users/USUARIO/Documents/Colegio/ProyectoColegio/ProyectoColegio/Views/Docentes/Notas.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jZW50ZXNcTm90YXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UPN/CICLO 6/DISEÑO Y ARQUITECTURA DE SOFTWARE/VENTA/NUEVA VERSION/PROY - V2.0/ProyectoColegio/ProyectoColegio/Views/Home/Index.cshtml]
+[C:/Users/USUARIO/Documents/Colegio/ProyectoColegio/ProyectoColegio/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UPN/CICLO 6/DISEÑO Y ARQUITECTURA DE SOFTWARE/VENTA/NUEVA VERSION/PROY - V2.0/ProyectoColegio/ProyectoColegio/Views/Home/Principal.cshtml]
+[C:/Users/USUARIO/Documents/Colegio/ProyectoColegio/ProyectoColegio/Views/Home/Principal.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcmluY2lwYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UPN/CICLO 6/DISEÑO Y ARQUITECTURA DE SOFTWARE/VENTA/NUEVA VERSION/PROY - V2.0/ProyectoColegio/ProyectoColegio/Views/Home/Privacy.cshtml]
+[C:/Users/USUARIO/Documents/Colegio/ProyectoColegio/ProyectoColegio/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UPN/CICLO 6/DISEÑO Y ARQUITECTURA DE SOFTWARE/VENTA/NUEVA VERSION/PROY - V2.0/ProyectoColegio/ProyectoColegio/Views/Shared/Error.cshtml]
+[C:/Users/USUARIO/Documents/Colegio/ProyectoColegio/ProyectoColegio/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UPN/CICLO 6/DISEÑO Y ARQUITECTURA DE SOFTWARE/VENTA/NUEVA VERSION/PROY - V2.0/ProyectoColegio/ProyectoColegio/Views/Shared/_LoginPartial.cshtml]
+[C:/Users/USUARIO/Documents/Colegio/ProyectoColegio/ProyectoColegio/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UPN/CICLO 6/DISEÑO Y ARQUITECTURA DE SOFTWARE/VENTA/NUEVA VERSION/PROY - V2.0/ProyectoColegio/ProyectoColegio/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/USUARIO/Documents/Colegio/ProyectoColegio/ProyectoColegio/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UPN/CICLO 6/DISEÑO Y ARQUITECTURA DE SOFTWARE/VENTA/NUEVA VERSION/PROY - V2.0/ProyectoColegio/ProyectoColegio/Views/Usuarios/Create.cshtml]
+[C:/Users/USUARIO/Documents/Colegio/ProyectoColegio/ProyectoColegio/Views/Usuarios/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UPN/CICLO 6/DISEÑO Y ARQUITECTURA DE SOFTWARE/VENTA/NUEVA VERSION/PROY - V2.0/ProyectoColegio/ProyectoColegio/Views/Usuarios/Delete.cshtml]
+[C:/Users/USUARIO/Documents/Colegio/ProyectoColegio/ProyectoColegio/Views/Usuarios/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UPN/CICLO 6/DISEÑO Y ARQUITECTURA DE SOFTWARE/VENTA/NUEVA VERSION/PROY - V2.0/ProyectoColegio/ProyectoColegio/Views/Usuarios/Details.cshtml]
+[C:/Users/USUARIO/Documents/Colegio/ProyectoColegio/ProyectoColegio/Views/Usuarios/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UPN/CICLO 6/DISEÑO Y ARQUITECTURA DE SOFTWARE/VENTA/NUEVA VERSION/PROY - V2.0/ProyectoColegio/ProyectoColegio/Views/Usuarios/DetallesCursos.cshtml]
+[C:/Users/USUARIO/Documents/Colegio/ProyectoColegio/ProyectoColegio/Views/Usuarios/DetallesCursos.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGV0YWxsZXNDdXJzb3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UPN/CICLO 6/DISEÑO Y ARQUITECTURA DE SOFTWARE/VENTA/NUEVA VERSION/PROY - V2.0/ProyectoColegio/ProyectoColegio/Views/Usuarios/Edit.cshtml]
+[C:/Users/USUARIO/Documents/Colegio/ProyectoColegio/ProyectoColegio/Views/Usuarios/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UPN/CICLO 6/DISEÑO Y ARQUITECTURA DE SOFTWARE/VENTA/NUEVA VERSION/PROY - V2.0/ProyectoColegio/ProyectoColegio/Views/Usuarios/Horario.cshtml]
+[C:/Users/USUARIO/Documents/Colegio/ProyectoColegio/ProyectoColegio/Views/Usuarios/Horario.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcSG9yYXJpby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UPN/CICLO 6/DISEÑO Y ARQUITECTURA DE SOFTWARE/VENTA/NUEVA VERSION/PROY - V2.0/ProyectoColegio/ProyectoColegio/Views/Usuarios/Index.cshtml]
+[C:/Users/USUARIO/Documents/Colegio/ProyectoColegio/ProyectoColegio/Views/Usuarios/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UPN/CICLO 6/DISEÑO Y ARQUITECTURA DE SOFTWARE/VENTA/NUEVA VERSION/PROY - V2.0/ProyectoColegio/ProyectoColegio/Views/Usuarios/Seccion.cshtml]
+[C:/Users/USUARIO/Documents/Colegio/ProyectoColegio/ProyectoColegio/Views/Usuarios/Seccion.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcU2VjY2lvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UPN/CICLO 6/DISEÑO Y ARQUITECTURA DE SOFTWARE/VENTA/NUEVA VERSION/PROY - V2.0/ProyectoColegio/ProyectoColegio/Views/_ViewImports.cshtml]
+[C:/Users/USUARIO/Documents/Colegio/ProyectoColegio/ProyectoColegio/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UPN/CICLO 6/DISEÑO Y ARQUITECTURA DE SOFTWARE/VENTA/NUEVA VERSION/PROY - V2.0/ProyectoColegio/ProyectoColegio/Views/_ViewStart.cshtml]
+[C:/Users/USUARIO/Documents/Colegio/ProyectoColegio/ProyectoColegio/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UPN/CICLO 6/DISEÑO Y ARQUITECTURA DE SOFTWARE/VENTA/NUEVA VERSION/PROY - V2.0/ProyectoColegio/ProyectoColegio/Views/Shared/_Layout.cshtml]
+[C:/Users/USUARIO/Documents/Colegio/ProyectoColegio/ProyectoColegio/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-bx4lo7d3ak
